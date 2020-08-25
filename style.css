@@ -1,1 +1,43 @@
+h1 {
+    color:whitesmoke;
+}
+
+.container {
+    margin-top: 10%;
+    background-color: skyblue;
+}
+
+body {
+    background-color: lightgrey;
+}
+
+.page-header {
+    color: whitesmoke;
+}
+
+.selfie {
+    max-width: 400px;
+    max-height: 400px;
+    padding-bottom: 10px;
+}
+
+.CSS {
+    height: 400px;
+    width: 400px;
+}
+
+.Fanpage {
+    height: 400px;
+    width: 500px;
+}
+
+.javascript {
+    height: 400px;
+    width: 400px;
+}
+
+.webpage {
+    height: 400px;
+    width: 500px;
+}
 
