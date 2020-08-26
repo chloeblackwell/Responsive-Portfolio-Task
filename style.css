@@ -3,11 +3,12 @@ h1 {
 }
 
 .container {
-    margin-top: 10%;
+    margin-top: 5%;
     background-color: skyblue;
 }
 
 body {
+    background-image: url(images/chevron.png);
     background-color: lightgrey;
 }
 
@@ -16,28 +17,18 @@ body {
 }
 
 .selfie {
-    max-width: 400px;
-    max-height: 400px;
+    max-width: 350px;
+    max-height: 350px;
     padding-bottom: 10px;
 }
 
-.CSS {
-    height: 400px;
-    width: 400px;
-}
-
-.Fanpage {
-    height: 400px;
-    width: 500px;
-}
-
-.javascript {
-    height: 400px;
-    width: 400px;
-}
-
+.CSS,
+.Fanpage,
+.javascript,
 .webpage {
     height: 400px;
-    width: 500px;
+    width: 400px;
+    padding: 20px;
 }
+
 
