@@ -29,7 +29,8 @@ This page does not have a license.
 
 ## Link to the Webpage 
 
-<a href="https://chloeblackwell.github.io/Responsive-Portfolio-Task/">
+<a href="https://chloeblackwell.github.io/Responsive-Portfolio-Task/"></a>
+  
 ## Author 
 
 Chloe Blackwell 
