@@ -9,6 +9,7 @@ This webpage consists of 4 pages, index.html, contact.html, portfolio.html and s
 ## User Story 
 
 A USER visits webpage 
+<br>
 WEBPAGE renders to device used 
 
 
@@ -34,4 +35,5 @@ This page does not have a license.
 ## Author 
 
 Chloe Blackwell 
+<br>
 Email: chloeblackwell2@hotmail.com
