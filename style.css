@@ -4,8 +4,9 @@ h1 {
 }
 
 .container-md {
-    margin-top: 10%;
+    margin-top: 5%;
     background-color:skyblue;
+    margin-bottom: 50px;
 }
 
 body {
@@ -22,7 +23,7 @@ body {
     max-width: 350px;
     max-height: 350px;
     padding-bottom: 10px;
-    float: left;
+    
 }
 
 .CSS,
@@ -34,6 +35,6 @@ body {
     padding: 10px;
 }
 
-
-
-
+#sticky-footer {
+    flex-shrink: none;
+  }

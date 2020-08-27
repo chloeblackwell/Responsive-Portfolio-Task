@@ -19,9 +19,9 @@ WEBPAGE renders to device used
 
 ## Screenshots 
 
-<img src="images/About" alt="About">
-<img src="images/Contact" alt="Contact">
-<img src="images/Portfolio" alt="Portfolio">
+<img src="images/About.png">
+<img src="images/Contact.png">
+<img src="images/Portfolio.png">
 
 ## License 
 
@@ -29,7 +29,8 @@ This page does not have a license.
 
 ## Link to the Webpage 
 
-<a href=" https://chloeblackwell.github.io/Responsive-Portfolio-Task">Link to webpage</a>
+<a href="https://chloeblackwell.github.io/Responsive-Portfolio-Task/">Link to webpage</a>
+  
 ## Author 
 
 Chloe Blackwell 
